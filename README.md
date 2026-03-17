@@ -47,4 +47,8 @@ JAVA class contents
        ** 가독성 높은이름(단축보다 풀네임(ex. s보다 sum))
        ** 충분히 긴 이름으로 붙이기(ex. AVM보다 AutoVendingMachine)
        ** 변수명은 소문자로 시작(기본자료형) & 대문자로 시작(참조자료형)       
-      
+
+* 자바의 데이터 타입
+       ** 기본타입 : 8개(boolean, char, byte, short, int, long, float, double)
+       ** 레퍼런스 타입 : 1개(용도는 3가지로 나눔)           
+              *** 배열(array), 클래스(class), 인터페이스(interface)
